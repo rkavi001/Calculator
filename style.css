@@ -19,16 +19,16 @@ body {
 
 .calculator-card {
     background-color: #454141;
-    padding: 30px; /* Increase padding for a larger calculator */
+    padding: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .display {
-    font-size: 48px; /* Increase font size for a larger display */
-    margin-bottom: 20px; /* Increase margin for better spacing */
-    padding: 15px; /* Increase padding for better appearance */
-    border: 2px solid #ccc; /* Thicker border for better visibility */
+    font-size: 48px; 
+    margin-bottom: 20px; 
+    padding: 15px;
+    border: 2px solid #ccc; 
     border-radius: 10px;
     background-color: #e3e560;
     width: 100%;
@@ -39,13 +39,13 @@ body {
 .button-row {
     display: flex;
     justify-content: space-between;
-    margin-top: 20px; /* Increase margin for better spacing */
+    margin-top: 20px; 
 }
 
 .button {
     flex: 1;
-    padding: 20px; /* Increase padding for larger buttons */
-    font-size: 24px; /* Increase font size for larger buttons */
+    padding: 20px; 
+    font-size: 24px; 
     cursor: pointer;
 }
 
